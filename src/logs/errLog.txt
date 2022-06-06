@@ -1,2 +1,11 @@
 20220603	12:15:24	f87ebfc8-ba58-4798-adda-3c0d3d1bd526	Error : Not allowed by CORS
 20220603	12:22:57	edfb2b8c-74d2-4614-92b1-9f6c5a839d91	Error : Not allowed by CORS
+20220604	19:43:33	a51557f1-4ba7-4a63-922d-5f734f04c96e	TypeError : req.roles.map is not a function
+20220604	19:55:47	7486e65d-bed2-4868-b5ef-297027d3d373	TypeError : req.roles.map is not a function
+20220604	19:58:01	b984c047-7a87-4b1c-a02b-4ddca08364fc	ReferenceError : result is not defined
+20220604	20:18:05	d7ca3441-646f-46d6-971b-6cc4279c9972	TypeError : req.roles.map is not a function
+20220604	20:19:21	b9279985-0210-4c4a-9c97-6bc02d9bb2e6	TypeError : req.roles.map is not a function
+20220604	20:55:46	9acba2b0-0545-4d49-8333-f4c0fd72ac85	TypeError : req.roles.map is not a function
+20220604	20:57:41	a09b0532-cb03-4af9-9851-f611a582d73f	TypeError : req.roles.map is not a function
+20220604	20:58:42	3381e651-c4ea-44cc-a577-aa34efcbbbcd	TypeError : req.roles.map is not a function
+20220604	21:30:48	6da67aa0-11e0-482a-b13a-87c973c21f50	TypeError : req.roles.map is not a function
